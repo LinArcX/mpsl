@@ -9,7 +9,7 @@ Just copy `mpsb.vim` into your `plugin` directory.
 
 ## Why?
 - [KISS](https://en.wikipedia.org/wiki/KISS_principle)
-- I like [vim-airline](https://github.com/vim-airline/vim-airline). But its code is huge for such a simple task.(showing status bar)
+- I like [vim-airline](https://github.com/vim-airline/vim-airline). But its code is huge for such a simple task.(showing statusline)
 - I like to manipulate and discover things and see what's going on under the hood(And i encourage you, too). So, instead of just using a huge plugin, install a minimal alternative and change it according to your needs.
 
 ## Customization
