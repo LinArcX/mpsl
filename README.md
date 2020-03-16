@@ -1,11 +1,11 @@
 <h1 align="center">
-	<img width="900" src="./screenshot.png" alt="mpsb">
+	<img width="900" src="./screenshot.png" alt="mpsl">
     <br/>
-    <h4 align="center">Using mpsb + <a href="https://github.com/LinArcX/mpi">mpi</a> + mpbtl</h4>
+    <h4 align="center">Using mpsl + <a href="https://github.com/LinArcX/mpi">mpi</a> + mpbtl</h4>
 </h1>
 
 ## Installation
-Just copy `mpsb.vim` into your `plugin` directory.
+Just copy `mpsl.vim` into your `plugin` directory.
 
 ## Why?
 - [KISS](https://en.wikipedia.org/wiki/KISS_principle)
@@ -51,4 +51,4 @@ And use them like this:
 Here is the list of colors: https://jonasjacek.github.io/colors/
 
 ## License
-![License](https://img.shields.io/github/license/LinArcX/mpsb.svg)
+![License](https://img.shields.io/github/license/LinArcX/mpsl.svg)
