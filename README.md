@@ -1,7 +1,7 @@
 <h1 align="center">
 	<img width="900" src="./screenshot.png" alt="mpsb">
     <br/>
-    <h4 align="center">Using mpsb + mpi + mpbtl</h4>
+    <h4 align="center">Using mpsb + <a href="https://github.com/LinArcX/mpi">mpi</a> + mpbtl</h4>
 </h1>
 
 ## Installation
@@ -14,7 +14,7 @@ Just copy `mpsb.vim` into your `plugin` directory.
 
 ## Customization
 ### Custom functins
-You can add your own functions and call them later. For example i want to show-permision and git-branch. First define them:
+You can add your own functions and call them later. For example i want to show file permisions and current git branch. First define them:
 
 ```
 function! FilePermission()
@@ -38,13 +38,14 @@ Also you can add [unicode emojies](https://en.wikipedia.org/wiki/Template:Emoji_
 `set statusline+=%5*\ %{nr2char(0x1f47d)}`
 
 
-### Define custom paletes
-If you want to use different colors, you should define different Highlight commands. Here is an example:
+### Define custom colors
+If you want to use different colors, first you should define different `Highlight commands`. Here is an example:
 ```
 hi User5 ctermbg=233 ctermfg=39  " Black/Sky-Blue
 hi User6 ctermbg=233 ctermfg=007 " Black/Sky-Blue
 ```
 And use them like this:
+
 `set statusline+=%5*\ %{nr2char(0x1f47d)}`
 
 Here is the list of colors: https://jonasjacek.github.io/colors/
