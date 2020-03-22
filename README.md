@@ -1,7 +1,7 @@
 <h1 align="center">
 	<img width="900" src="./screenshot.png" alt="mpsl">
     <br/>
-    <h4 align="center">Using mpsl + <a href="https://github.com/LinArcX/mpi">mpi</a> + mpbtl</h4>
+    <h4 align="center">Using mpsl + <a href="https://github.com/LinArcX/mpi">mpi</a> + <a href="https://github.com/LinArcX/mpbtl">mpbtl</a>
 </h1>
 
 ## Installation
